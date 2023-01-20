@@ -4,4 +4,3 @@ I code Machine Learning based solutions.
 
 ![GitHub followers](https://img.shields.io/github/followers/varshney-anshika?label=Follow&style=social)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-AnshikaVarshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshika-varshney-6567361a5/)](https://www.linkedin.com/in/anshika-varshney-6567361a5/)
-[![Tableau:](https://img.shields.io/badge/-AnshikaVarshney-black?style=flat-square&logo=Tableau&logoColor=blue&link=https://public.tableau.com/app/profile/anshika.varshney5862)](https://public.tableau.com/app/profile/anshika.varshney5862)
